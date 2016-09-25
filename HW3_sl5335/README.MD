@@ -1,0 +1,1 @@
+I worked with Bailey and Enrique to wrangle this citibike data. Bailey helped formulate the question and figured out how to access a zip file as the given code was not working for us. Enrique and I worked to figure out time translations and how to make it work for the analysis that we needed. I discussed with Bailey the merits of histogram v. barchart. 
