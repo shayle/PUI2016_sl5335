@@ -1,0 +1,1 @@
+I was out of town this weekend so I worked independently for assignments 2 and assignment 3. However, Celia and I worked on the data wrangling in assignment 4, including interpreting the results of the given code as well as discussing how to interpret the results from the k-s test and how to sample data. 
