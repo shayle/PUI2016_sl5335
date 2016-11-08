@@ -1,0 +1,3 @@
+![alt tag](https://github.com/shayle/PUI2016_sl5335/blob/master/HW8_sl5335/ps3369.png)
+
+The plot was clear and axes were well labeled with units. However, I think there might be an error as the plot shows the mean of each group lying between 400 and 600 minutes and I don't think the average CitiBike ride is over 6 hours long. As result, I'm not totally sure if it's a clear representation of the data or not.  I think you could have used a little more explanation in the "Figure 1" portion as it more or less restates the title. Since it's a box plot, perhaps you could make mention of the difference in spread between the two groups. 
