@@ -1,3 +1,3 @@
-![alt tag](https://github.com/shayle/PUI2016_sl5335/blob/master/HW8_sl5335/qd515.png)
+![alt tag](https://github.com/shayle/PUI2016_sl5335/blob/master/HW8_sl5335/xd515.png)
 
 I felt the labels on this plot could be more clear. The plot should be readable to a reader who was not familiar with the data and who was just looking at the plot itself. Therefore, it would be useful to indicate that this represents average hourly ridership by gender for CitiBike riders in June 2016, whether in the title and/or a "Figure 1" description after your plot.   You should also add units to your axis as an uninformed reader might assume is by day of the month or a measure in minutes of the duration of ride, etc. I would also fully write out Female and Male in your legend to make it that much learer. Once those cosemtic details to improve clarity are fixed, the plot honestly reflects the data at hand.
