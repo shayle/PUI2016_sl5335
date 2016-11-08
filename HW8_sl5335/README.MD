@@ -1,0 +1,1 @@
+I spoke a bit in class with Chris, Ben and Jordan regarding where the data was kept, but otherwise completed this assignment on my own. 
