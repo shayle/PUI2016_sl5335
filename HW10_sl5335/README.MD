@@ -1,0 +1,3 @@
+There was not a very large difference in spatial autocorrelation from summer to winter although winter generally had more cold spots and a slightly higher slope coefficient. These cold spots seem to be concentrated around the peripheries of the city (the waterfronts) and Central Park where more people may ride for leisure in warmer weather. Therefore, the remaining winter ridership may be commuters who are less likely to be deterred by weather conditions. 
+
+I primarily completed this assignment by myself.
