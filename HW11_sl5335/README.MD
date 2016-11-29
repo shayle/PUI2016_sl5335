@@ -1,0 +1,3 @@
+For the second assignment, I clustered the data using kmeans and agglomerative clustering. The results were more or less consistent and only 3 or 4 clusters seemed to give more accurate results than 5 or 6 for both according to the silhouette score. More clusters seemed to reveal clusters that were slight variations on more or less flat trends. I plotted both 4 cluster solutions on the map because I was interested in a small cluster that had a steep drop off after 9/11, but most of the zip codes in that cluster were not in lower Manhattan so that may not have been the cause. 
+
+I primarily worked on this assignment alone although I did provide some aid to Felipe re: how to acquire the census block data and convert it into lat long as well as getting the CUSP point. 
